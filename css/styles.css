@@ -1,0 +1,93 @@
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  body {
+    font-size: 15px;
+    background-color: #f2f2f2;
+    font-family: 'Lexend Deca', sans-serif;
+
+    /* font-family: 'Big Shoulders Display', cursive; */
+
+  }
+
+  .foot {
+    color: #3e52a3;
+  }
+
+  .main {
+    margin-top: 130px;
+    margin-left: 105px;
+    position: relative;
+    width: 1140px;
+    height: 400px;
+  }
+
+  .sedan {
+    position: absolute;
+    left: 0;
+    width: 380px;
+    height: 400px;
+    background-color: #e38826;
+  }
+
+  .suv {
+    position: absolute;
+    left: 380px;
+    width: 380px;
+    height: 400px;
+    background-color: #006970;
+  }
+
+  .luxury {
+    position: absolute;
+    right: 0;
+    width: 380px;
+    height: 400px;
+    background-color: #004241;
+  }
+
+  h1 {
+    font-family: 'Aerial', sans-serif;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #ffffff;
+  }
+
+  svg {
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+
+  p {
+    font-weight: normal;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 40px;
+    opacity: 0.7;
+  }
+  .button1{
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    width: 100px;
+    color: #e38826;
+  }
+  .button2{
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    width: 100px;
+    color: #006970;
+  }
+  .button3{
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    width: 100px;
+    color: #004241;
+  }
